@@ -5,3 +5,4 @@ traffic sign images with 59 categories, as shown in Table 1
 
 ![system](https://github.com/ComVisDinh/korean_traffic_sign/assets/29675793/1061853d-e743-45a4-810e-bdfd6e38a626)
 
+<img width="644" alt="table" src="https://github.com/ComVisDinh/korean_traffic_sign/assets/29675793/49057515-e72d-4571-897c-c32a23fece84">
